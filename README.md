@@ -13,6 +13,7 @@ Components for a remote controller:
   - 4 x 220-ohm resistors
   - 4 buttons
   - jumpers
+  - powerbank
 
 Components for a car:
   - Arduino UNO R3
